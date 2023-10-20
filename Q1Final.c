@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-g
+
 struct Aluno {
     int mat;
     float a1;
